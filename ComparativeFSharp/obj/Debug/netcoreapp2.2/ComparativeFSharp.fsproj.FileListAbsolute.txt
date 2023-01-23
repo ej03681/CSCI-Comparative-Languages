@@ -1,0 +1,10 @@
+C:\Users\EddyJ\source\repos\ComparativeFSharp\ComparativeFSharp\bin\Debug\netcoreapp2.2\ComparativeFSharp.deps.json
+C:\Users\EddyJ\source\repos\ComparativeFSharp\ComparativeFSharp\bin\Debug\netcoreapp2.2\ComparativeFSharp.runtimeconfig.json
+C:\Users\EddyJ\source\repos\ComparativeFSharp\ComparativeFSharp\bin\Debug\netcoreapp2.2\ComparativeFSharp.runtimeconfig.dev.json
+C:\Users\EddyJ\source\repos\ComparativeFSharp\ComparativeFSharp\bin\Debug\netcoreapp2.2\ComparativeFSharp.dll
+C:\Users\EddyJ\source\repos\ComparativeFSharp\ComparativeFSharp\bin\Debug\netcoreapp2.2\ComparativeFSharp.pdb
+C:\Users\EddyJ\source\repos\ComparativeFSharp\ComparativeFSharp\obj\Debug\netcoreapp2.2\ComparativeFSharp.fsprojAssemblyReference.cache
+C:\Users\EddyJ\source\repos\ComparativeFSharp\ComparativeFSharp\obj\Debug\netcoreapp2.2\ComparativeFSharp.AssemblyInfoInputs.cache
+C:\Users\EddyJ\source\repos\ComparativeFSharp\ComparativeFSharp\obj\Debug\netcoreapp2.2\ComparativeFSharp.AssemblyInfo.fs
+C:\Users\EddyJ\source\repos\ComparativeFSharp\ComparativeFSharp\obj\Debug\netcoreapp2.2\ComparativeFSharp.dll
+C:\Users\EddyJ\source\repos\ComparativeFSharp\ComparativeFSharp\obj\Debug\netcoreapp2.2\ComparativeFSharp.pdb
