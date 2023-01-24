@@ -1,0 +1,5 @@
+﻿  MultithreadingAssign.cpp
+C:\Users\EddyJ\source\repos\Multithreading\OperatingSystem\MultithreadingAssign.cpp(12,28): error C3867: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::size': non-standard syntax; use '&' to create a pointer to member
+C:\Users\EddyJ\source\repos\Multithreading\OperatingSystem\MultithreadingAssign.cpp(12,28): error C2665: 'count': none of the 2 overloads could convert all the argument types
+C:\Users\EddyJ\source\repos\Multithreading\OperatingSystem\MultithreadingAssign.cpp(5,5): message : could be 'int count(const std::string &,char,int)'
+C:\Users\EddyJ\source\repos\Multithreading\OperatingSystem\MultithreadingAssign.cpp(12,28): message : while trying to match the argument list '(const std::string *, char)'
